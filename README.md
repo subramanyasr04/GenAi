@@ -1,0 +1,2 @@
+# GenAi
+GenAi Model phototype 
